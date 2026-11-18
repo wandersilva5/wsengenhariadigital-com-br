@@ -12,8 +12,10 @@ dist
 dist-ssr
 *.local
 
-# credenciais de deploy (FTP) — nunca commitar
+# credenciais e scripts de deploy (FTP) — nunca commitar
 deploy.config.json
+deploy.ps1
+PUBLICAR.md
 
 # Editor directories and files
 .vscode/*
